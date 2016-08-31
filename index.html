@@ -11,71 +11,8 @@
 
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
 
-    <script>
-
-        // $(document).ready(function () {
-        //     if (location.hash){
-        //         console.log('hash');
-        //         $(location.hash).collapse('show');
-        //         $(location.hash).parents('.accordion-body').collapse('show');
-        //     }
-        // });
-
-        $( document ).ready(function() {
-
-
-//var AccordionBodyID_Handle = $('#2');
-
-          //  $(AccordionBodyID_Handle).removeClass('collapsed');
-
-
-            //var secId = "section_" +  AccordionSectionNumber;
-            var AccordionBodyID = $('#1');
-
-
-            $(AccordionBodyID).collapse('show');
-
-            //$(AccordionBodyID).parents('.accordion-body').collapse('show');
-
-
-            if (window.location.hash) {
-
-
-
-    //             var AccordionSectionNumber = window.location.hash.substring(1);
-
-    //             console.log(AccordionSectionNumber);
-
-    //             //AccordionBodyID = $(".accordion-toggle:nth-of-type(" + AccordionSectionNumber + ") ").attr('href')
-
-    //             //var AccordionBodyID =  $("a[data-id='"+ AccordionSectionNumber + "']");
-
-
-    //             var secId = "section_" +  AccordionSectionNumber;
-
-    //             var AccordionBodyID = $('#' + secId);
-
-    //             console.log(AccordionBodyID);
-
-
-
-    //             //if (! (typeof AccordionBodyID === "undefined")) {
-
-    //                 //$(AccordionBodyID).collapse('show');
-    //            //     return true;
-
-    //            $(AccordionBodyID).addClass('in');
-    // $(AccordionBodyID).parents('.accordion-body').collapse('show');
-
-
-
-                //}
-            }
-        });
-
-
-    </script>
 
 </head>
 
@@ -107,13 +44,14 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a id="2" class="accordion-toggle"
+                        <a  class="accordion-toggle collapsed"
                            data-toggle="collapse"
                            data-parent="#accordion"
                            href="#collapseOne">Is account registration required?</a>
                     </h4>
                 </div>
-                <div id="1" class="panel-collapse collapse">
+                <div id="collapseOne"
+                     class="panel-collapse collapse">
                     <div class="panel-body">
                         Account registration at <strong>PrepBootstrap</strong> is only required if you will be selling or
                         buying themes. This ensures a valid communication channel for all parties involved in any transactions.
@@ -128,10 +66,14 @@
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Can I submit my own Bootstrap templates or themes?</a>
+                        <a class="accordion-toggle collapsed"
+                           data-toggle="collapse"
+                           data-parent="#accordion"
+                           href="#collapseTen">Can I submit my own Bootstrap templates or themes?</a>
                     </h4>
                 </div>
-                <div id="collapseTen" class="panel-collapse collapse">
+                <div id="collapseTen"
+                     class="panel-collapse collapse">
                     <div class="panel-body">
                         A lot of the content of the site has been submitted by the community. Whether it is a commercial element/template/theme or
                         a free one, you are encouraged to contribute. All credits are published along with the resources.
