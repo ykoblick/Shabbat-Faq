@@ -1,0 +1,66 @@
+
+
+
+
+
+I tried logging in with facebook and cannot login to my account
+
+    -- run forgot password
+
+
+
+
+How do I increase my chance of being invited for Shabbat?
+
+My host is not responding to my request. What can I do?
+
+How do I change my Email Address
+
+
+Privacy
+
+How do I block someone?
+
+How do I stop people from harassing me?
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="dropdown pull-right" style="display: none;">
+                                <a id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                    <i class="fa fa-gear dropdown-toggle"></i>
+                                </a>
+
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                    <li><a href="#">Copy to clipboard</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li>
+                                        <form class="form-inline">
+                                            <div class="form-group">
+
+                                                <div class="input-group">
+
+                                                    <div class="input-group-addon"></div>
+
+                                                    <input type="text" class="form-control" value="http://www.apple.com" />
+
+                                                    <div class="input-group-addon">
+                                                        <button class="btn btn-default">
+                                                            <i class="fa fa-clipboard" ></i>
+                                                        </button>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+
+                                    </li>
+                                </ul>
+                            </div>
