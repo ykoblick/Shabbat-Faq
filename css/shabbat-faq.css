@@ -12,7 +12,7 @@
 }
 
 .panel-body p {
-    padding-left: 15px;
+    padding-left: 15px!important;
 }
 
 .faqHeader {

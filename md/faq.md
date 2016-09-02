@@ -15,6 +15,7 @@
 ### General:
 
 1. Why does Shabbat.com require so much personal information like my address and phone number?
+
     * Shabbat.com assists hosts and guests connecting for Shabbat. In order to properly allow
       a guest to find a home for Shabbat, Shabbat.com provides a close approximation of the Host's location.
       Shabbat.com never displays any guest's or host's address or phone number.
@@ -24,6 +25,7 @@
 ### Privacy:
 
 1.  How do I block someone from bothering me?
+
     * Any member that you are not comfortable with can be blocked. If you block another member they cannot:
         - message you
         - invite or request hosting
