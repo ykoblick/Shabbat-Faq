@@ -94,15 +94,6 @@
 5. How do I change my role to a guest or host?
 
 
-
-### App:
-
-1.  I cant unlike a posting on the app. Why not?
-
-    * This one of the isses we expect to resolve soon. See more <a href='https://github.com/ykoblick/shabbatcom/issues/5'>here</a>.
-
-
-
 ### Account:
 
 1.  I logged in to Shabbat.com with Facebook and cannot login to my account
@@ -126,6 +117,14 @@
     on the app. Navigate to your profile by clicking on your name in the header of the page
     on the left side. On your profile page there are menu items under your cover picture. Click on 'Edit Profile'.
     On the left side of the page, click on 'Account Settings'. Select 'Advanced Settings' on the screen under the 'Delete Account' section.
+
+
+
+### App:
+
+1.  I cant unlike a posting on the app. Why not?
+
+    * This one of the isses we expect to resolve soon. See more <a href='https://github.com/ykoblick/shabbatcom/issues/5'>here</a>.
 
 
 
