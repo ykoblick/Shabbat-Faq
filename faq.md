@@ -33,11 +33,12 @@
 
     * Shabbat.com is the brainchild of Rabbi Benzion Klatzko. It's mission is to enable and fosture enduring connections within the Jewish People.
     Whether it's a life partner, a guest to invite, a loving family sought for Shabbat hosting, or simply a new connection - Shabbat.com endevours to
+    facilitate global kindness.
 
 5.  I love Shabbat.com and would like to contribuite towards it Herculean efforts. How can I?
 
   * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit Corporation under the umbrella of the Od Yavo foundation.
-    All donations are therefore tax deductible.
+    All donations are therefore tax deductible. Navigate to our <a href='https://www.shabbat.com/donate'>donate page</a>.
 
 
 ### Privacy:
