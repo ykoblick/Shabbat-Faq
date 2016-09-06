@@ -37,7 +37,7 @@
 
 5.  I love Shabbat.com and would like to contribuite towards it Herculean efforts. How can I?
 
-  * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit Corporation under the umbrella of the Od Yavo foundation.
+  * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit.
     All donations are therefore tax deductible. Navigate to our <a href='https://www.shabbat.com/donate'>donate page</a>.
 
 
@@ -97,7 +97,7 @@
 
 ### Account:
 
-1.  I logged in to Shabbat.com with Facebook and cannot login to my account
+1.  I logged in to Shabbat.com with Facebook and now cannot login to my account.
 
     * Navigate to <a href='http://www.shabbat.com/forgot'>reset password</a>.
       There you can recover a temporary password that you can login with. You retrieve it by entering
@@ -133,4 +133,8 @@
 
 1.  I thought that Shabbat.com was about Shabbat experiances. Why do so many people use it for dating?
 
-    *
+    * Shabbat.com began as an online reservation system for Shabbat.
+
+2.  How do I create a dating profile?
+
+3. I just became recently married. How do I remove my dating profile and change my relationship status?
