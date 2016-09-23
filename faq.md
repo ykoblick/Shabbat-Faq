@@ -40,6 +40,12 @@
   * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit Corporation. All donations are therefore tax deductible.
     Navigate to our <a href='https://www.shabbat.com/donate'>donate page</a>.
 
+6.  Can Shabbat.com find me a place for Shabbat?
+
+   * Shabbat.com doesn't actively find and locate hosting possibilities. The site serves as a platform enabling guests and hosts to connect. You must be a member of Shabbat.com to locate hosts and request Shabbat placement. Navigate to Shabbat.com and click on ‘Join Now’ in the top right corner or    center of the screen. Once you are a member – you can search by different location parameters (such as city, zip code, proximity, etc) and see Hosts that you can view their profiles. On profile pages is a ‘Host Me’ button that allows you to initiate a Host request.
+     Alternatively, you can download our app in the apple app store or google play. Follow the registration prompts on the screen and search for hosts in the top search bar located on every view in the app. You can tap the menu icon (in search screen) and activate Gps device based proximity searches and more.
+
+
 
 ### Privacy:
 
@@ -97,7 +103,7 @@
     * You can change your role from host to guest and back (and vice versa). The process is really easy.
       In each case you can change your address as well. If you are a Host and now traveling to a distant
       city you would likely become a Guest on shabbat.com with a location of the city you are traveling to.
-      Additionally, 
+      Additionally,
 
 
 ### Account:
