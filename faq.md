@@ -37,8 +37,8 @@
 
 5.  I love Shabbat.com and would like to contribuite towards it Herculean efforts. How can I?
 
-  * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit.
-    All donations are therefore tax deductible. Navigate to our <a href='https://www.shabbat.com/donate'>donate page</a>.
+  * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit Corporation. All donations are therefore tax deductible.
+    Navigate to our <a href='https://www.shabbat.com/donate'>donate page</a>.
 
 
 ### Privacy:
@@ -94,6 +94,11 @@
 
 5. How do I change my role to a guest or host?
 
+    * You can change your role from host to guest and back (and vice versa). The process is really easy.
+      In each case you can change your address as well. If you are a Host and now traveling to a distant
+      city you would likely become a Guest on shabbat.com with a location of the city you are traveling to.
+      Additionally, 
+
 
 ### Account:
 
@@ -118,6 +123,11 @@
     on the app. Navigate to your profile by clicking on your name in the header of the page
     on the left side. On your profile page there are menu items under your cover picture. Click on 'Edit Profile'.
     On the left side of the page, click on 'Account Settings'. Select 'Advanced Settings' on the screen under the 'Delete Account' section.
+
+
+4.  How do I delete a profile picture?
+
+
 
 
 
