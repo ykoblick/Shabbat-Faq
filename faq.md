@@ -37,13 +37,18 @@
 
 5.  I love Shabbat.com and would like to contribuite towards it Herculean efforts. How can I?
 
-  * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit Corporation. All donations are therefore tax deductible.
+     * You can contribute on a one-time or ongoing basis. Shabbat.com is a registered 501c3 non profit Corporation. All donations are therefore tax deductible.
     Navigate to our <a href='https://www.shabbat.com/donate'>donate page</a>.
 
 6.  Can Shabbat.com find me a place for Shabbat?
 
-   * Shabbat.com doesn't actively find and locate hosting possibilities. The site serves as a platform enabling guests and hosts to connect. You must be a member of Shabbat.com to locate hosts and request Shabbat placement. Navigate to Shabbat.com and click on ‘Join Now’ in the top right corner or    center of the screen. Once you are a member – you can search by different location parameters (such as city, zip code, proximity, etc) and see Hosts that you can view their profiles. On profile pages is a ‘Host Me’ button that allows you to initiate a Host request.
-     Alternatively, you can download our app in the apple app store or google play. Follow the registration prompts on the screen and search for hosts in the top search bar located on every view in the app. You can tap the menu icon (in search screen) and activate Gps device based proximity searches and more.
+    * Shabbat.com doesn't actively find and locate hosting possibilities. The site serves as a platform enabling guests and hosts to connect. You must be a member of Shabbat.com
+     to locate hosts and request Shabbat placement. Navigate to Shabbat.com and click on ‘Join Now’ in the top right corner or    center of the screen. Once you are a member –
+     you can search by different location parameters (such as city, zip code, proximity, etc) and see Hosts that you can view their profiles. On profile pages is a ‘Host Me’
+     button that allows you to initiate a Host request.
+
+     Alternatively, you can download our app in the <a href='https://itunes.apple.com/us/app/id1037705799'>apple app store</a> or <a href='https://play.google.com/store/apps/details?id=com.tribex.shabbat&hl=en'>google play.</a> Follow the registration prompts on the screen and search for hosts in the top search bar
+     located on every view in the app. You can tap the menu icon (in search screen) and activate Gps device based proximity searches and more.
 
 
 
@@ -131,7 +136,20 @@
     On the left side of the page, click on 'Account Settings'. Select 'Advanced Settings' on the screen under the 'Delete Account' section.
 
 
-4.  How do I delete a profile picture?
+4. I would like to delete my account but I'm thinking I might want to access it again in the future?
+
+    * Shabbat.com allows you to 'suspend' your account now and re-activate it at a later date. To reactivate it
+    you would simply login to the website or app and follow prompts to authorize shabbat.com to reinstate your
+    account. Here is how to do it.
+    Account suspend and delete actions are located in your advanced settings page. Note this is only available on the website and not yet
+    on the app. Navigate to your profile by clicking on your name in the header of the page
+    on the left side. On your profile page there are menu items under your cover picture. Click on 'Edit Profile'.
+    On the left side of the page, click on 'Account Settings'. Select 'Advanced Settings' on the screen under the 'Delete Account' section.
+
+
+
+
+5.  How do I delete a profile picture?
 
 
 
