@@ -115,12 +115,15 @@
 
 1.  I logged in to Shabbat.com with Facebook and now cannot login to my account.
 
-    * Navigate to <a href='http://www.shabbat.com/forgot'>reset password</a>.
-      There you can recover a temporary password that you can login with. You retrieve it by entering
+    * Sometimes the Facebook-Shabbat authentication pipeline becomes broken over time for some users. This is ususally due to
+      settings changes a User initiates in his/her Facebook account. Here's what you can do.
+      Navigate to <a href='http://www.shabbat.com/forgot'>reset password</a>.
+      There you can recover a temporary password that you can login to Shabba.com with. You retrieve it by entering
       the email address associated to your Facebook account that was you login at the time you logged into
       Shabbat.com with Facebook. If you have since changed your primary Facebook email address or do not
-      recall it. <a href='http://www.shabbat.com/contact'>Contact Shabbat.com admin</a>. Once logged in, make sure
-      to change your password in your account settings.
+      recall it, <a href='http://www.shabbat.com/contact'>Contact Shabbat.com admin</a>. Once logged in, make sure
+      to change your password in your account settings. Finally, you can contact us requesting we remove the facebook authentication
+      record on Shabbat.com and you can try reinitiating a Facebook login connection.
 
 2.  How do I change my email address?
 
